@@ -13,5 +13,10 @@
   --primary-text-color: #161c2d;
   --primary-backgroundcolor: #ffffff;
   --secondary-bacgroundcolor: #f4f7fa;
-  --third-backgroundcolor:#161C2D;
+  --third-backgroundcolor: #161c2d;
+  --namecolor-primary: #161c2d;
+  --background-color: #f4f7fa;
+  --border-color: #e7e9ed;
+  --btn-color: #473bf0;
+  --home-color: #68d5851a;
 }
