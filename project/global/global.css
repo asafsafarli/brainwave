@@ -29,20 +29,22 @@ nav ul li:nth-child(2) a {
   color: #fb6d45;
 }
 
-.btn {
+.btn{
   font-family: var(--secondary-font-family);
   font-weight: 700;
   font-size: 15px;
   line-height: 26px;
   border: none;
-  color: var(--primary-text-color);
   background-color: white;
+}
+.btn a{
+  color: var(--primary-text-color);
 }
 .btn-collection {
   display: flex;
   gap: 12px;
 }
-.btn:hover {
+.btn a:hover {
   color: #fb6d45;
   transition: all 0.3s ease;
 }
